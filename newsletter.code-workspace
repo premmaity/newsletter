@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../newsletter"
+		},
+		{
+			"path": "../weather"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
